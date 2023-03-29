@@ -46,7 +46,7 @@ namespace HotelManager {
             int choice = Convert.ToInt32(Console.ReadLine());
 
             if(choice == 1) {
-                useRooms()
+                useRooms();
             } else if(choice == 2) {
                 freeRoom();
             } else if (choice == 3) {
