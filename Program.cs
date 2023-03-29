@@ -5,7 +5,7 @@ namespace HotelManager {
         List<int> freeRooms = new List<int> {1, 2, 3, 4, 5};
         List<int> usedRooms = new List<int>();
 
-        void menu() {
+        public void menu() {
             Console.WriteLine("Welcome To Hotel Manager!");
             Console.WriteLine("What Would YoU Like To Do?");
             Console.WriteLine("1. Inform Of A Used Room");
@@ -18,7 +18,7 @@ namespace HotelManager {
             if(choice == 1) {
                                   
             } else if(choice == 2) {
-                free_A_Room();
+                freeRoom();
             } else if (choice == 3) {
                 Console.WriteLine("Free Rooms: " + freeRooms);
                 Console.WriteLine("Used Room: " + usedRooms);
@@ -28,7 +28,7 @@ namespace HotelManager {
             }
         }
 
-        void free_A_Room() {
+        void freeRoom() {
             Console.WriteLine("Which Room Do You Want To Free?");
             int room = Convert.ToInt32(Console.ReadLine());
 
@@ -41,10 +41,26 @@ namespace HotelManager {
                 } 
             }
 
+        }
+
+        void useRooms() {
+            Console.WriteLine("Which Room Do You Want To Inform That is used?");
+            int room = Convert.ToInt32(Console.ReadLine());
+
+            foreach (int rooms in usedRooms) {
+                if (rooms == room) {
+                    freeRooms.Remove(rooms);
+                    usedRooms.Add(rooms);
+                    Console.WriteLine("Rooms Is Now Used");
+                    menu();
+                } 
+            }
+
         } 
 
         static void Main(string[] args) {
-            
+            Program program = new Program();
+            program.menu();
         }
     }
 }
