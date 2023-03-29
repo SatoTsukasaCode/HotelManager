@@ -1,0 +1,15 @@
+C:\Users\Or\Desktop\UwU\bin\Debug\net6.0\HotelMenagmets.exe
+C:\Users\Or\Desktop\UwU\bin\Debug\net6.0\HotelMenagmets.deps.json
+C:\Users\Or\Desktop\UwU\bin\Debug\net6.0\HotelMenagmets.runtimeconfig.json
+C:\Users\Or\Desktop\UwU\bin\Debug\net6.0\HotelMenagmets.dll
+C:\Users\Or\Desktop\UwU\bin\Debug\net6.0\HotelMenagmets.pdb
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\HotelMenagmets.csproj.AssemblyReference.cache
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\HotelMenagmets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\HotelMenagmets.AssemblyInfoInputs.cache
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\HotelMenagmets.AssemblyInfo.cs
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\HotelMenagmets.csproj.CoreCompileInputs.cache
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\HotelMenagmets.dll
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\refint\HotelMenagmets.dll
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\HotelMenagmets.pdb
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\HotelMenagmets.genruntimeconfig.cache
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\ref\HotelMenagmets.dll

@@ -1,0 +1,15 @@
+C:\Users\Or\Desktop\UwU\bin\Debug\net6.0\UwU.exe
+C:\Users\Or\Desktop\UwU\bin\Debug\net6.0\UwU.deps.json
+C:\Users\Or\Desktop\UwU\bin\Debug\net6.0\UwU.runtimeconfig.json
+C:\Users\Or\Desktop\UwU\bin\Debug\net6.0\UwU.dll
+C:\Users\Or\Desktop\UwU\bin\Debug\net6.0\UwU.pdb
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\UwU.csproj.AssemblyReference.cache
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\UwU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\UwU.AssemblyInfoInputs.cache
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\UwU.AssemblyInfo.cs
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\UwU.csproj.CoreCompileInputs.cache
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\UwU.dll
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\refint\UwU.dll
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\UwU.pdb
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\UwU.genruntimeconfig.cache
+C:\Users\Or\Desktop\UwU\obj\Debug\net6.0\ref\UwU.dll
