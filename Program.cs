@@ -24,7 +24,7 @@ namespace HotelManager {
             Console.WriteLine("Which Room Do You Want To Inform That is used?");
             int room = Convert.ToInt32(Console.ReadLine());
 
-            foreach (int rooms in usedRooms) {
+            foreach (var rooms in freeRooms) { 
                 if (rooms == room) {
                     freeRooms.Remove(rooms);
                     usedRooms.Add(rooms);
