@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Or\\Desktop\\UwU\\HotelMenagmets.csproj",
-      "projectName": "HotelMenagmets",
-      "projectPath": "C:\\Users\\Or\\Desktop\\UwU\\HotelMenagmets.csproj",
+      "projectUniqueName": "C:\\Users\\Or\\Desktop\\HotelManager\\HotelManager.csproj",
+      "projectName": "HotelManager",
+      "projectPath": "C:\\Users\\Or\\Desktop\\HotelManager\\HotelManager.csproj",
       "packagesPath": "C:\\Users\\Or\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Or\\Desktop\\UwU\\obj\\",
+      "outputPath": "C:\\Users\\Or\\Desktop\\HotelManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Or\\AppData\\Roaming\\NuGet\\NuGet.Config"
